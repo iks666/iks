@@ -51,7 +51,16 @@ public String getJobTitle(){
 public void setJobTitle(String jobTitle){
         this.jobTitle = jobTitle;
 }
-
+public String getPhone() {
+        return phone;
+}
+public void setPhone (String phone){
+        this.phone = phone;
+}
+public String getImageUrl(){
+        this.imageUrl = imageUrl;
+}
+public
 }
 
 
